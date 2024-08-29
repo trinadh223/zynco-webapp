@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zynco-webapp/static/css/main.e6c13ad2.css",
+    "main.js": "/zynco-webapp/static/js/main.15e721e5.js",
+    "static/js/453.72d356eb.chunk.js": "/zynco-webapp/static/js/453.72d356eb.chunk.js",
+    "index.html": "/zynco-webapp/index.html",
+    "main.e6c13ad2.css.map": "/zynco-webapp/static/css/main.e6c13ad2.css.map",
+    "main.15e721e5.js.map": "/zynco-webapp/static/js/main.15e721e5.js.map",
+    "453.72d356eb.chunk.js.map": "/zynco-webapp/static/js/453.72d356eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15e721e5.js"
+  ]
+}
